@@ -1,2 +1,2 @@
 Several image processing applications will be presented in deep learning setting. Whenever necessary, we will dive into
-theory with possible Pytorch implementation.helo work;s
+theory with possible Pytorch implementation. Also add some other stuff
