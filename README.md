@@ -1,5 +1,3 @@
-# MyDNNApps
-
 I initially started this github during an indivudial study Machine Learning in Image Analysis with Dr. Dimitri Volchenkov 
 in Texas Tech University. After that I have decided to redesign it with several applications of deep neural 
 networks with the underlying mathematical ideas behind it. I am planning to post more applications concerning neural networks 
