@@ -1,7 +1,8 @@
 In this repo, I apply the techniques I introduced in my report, which can be found at
 https://github.com/erkara/Brief-Introduction-to-Deep-Neural-Networks-Mathematical-Foundations
+for an image classification problem.
 
-We will work on the Intel Image Classification problem. Data contains around
+We will work on the Intel Image data which contains around
 25k images of size 150 × 150 distributed under 6 categories;
 
 ’building’ : 0, ’forest’: 1, ’glacier’ : 2, ’mountain’ : 3, ’sea’ : 4, ’street’ : 5
